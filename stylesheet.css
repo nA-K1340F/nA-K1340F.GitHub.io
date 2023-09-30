@@ -1,0 +1,53 @@
+@charset "utf-8";
+html{
+    font-size: 100%;
+    font-family: "BIZ UDPGothic",system-ui;
+    
+}
+header{
+    background-color: #101010;
+    color: #fdfdfd;
+}
+body{
+    background-color: #202020;
+}
+#bg {
+    margin-bottom: 80px;
+  }
+  #bg img {
+    width: 100%;
+    max-width: 3840px;
+    max-height: 500px;
+    object-fit: cover;
+  }
+#intro{
+    text-align: center;
+    
+    color: #34a1c9;
+}
+p{
+    color: #fdfdfd;
+}
+#link{
+    text-align: center;
+    color:#fdfdfd;
+}
+h3{
+    color: #34a1c9;
+}
+a{
+    color: #1972AA;
+}
+footer{
+    color: #ffffff88;
+}
+small.header1{
+    color: #ffffff88;
+}
+#aa{
+    color: #ffffffff;
+    text-decoration: none;
+}
+#intro img{
+    width: 10%;
+}
